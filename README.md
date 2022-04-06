@@ -14,6 +14,7 @@ KMF는 존재하는 개체와 데이터, 그들간의 관계를 지식 수준으
 
 
 ## 스마트캠퍼스 데이터 모델 구성
+#### 동아대 승학캠퍼스 모델 구성
 > 동아대 학과 수강신청 가능한 강의 - [수강신청 조회](http://sugang.donga.ac.kr/SUGANGLECTIME.aspx)
 >
 > 사하 10 공공 데이터 - [버스 API](https://www.data.go.kr/data/15092750/openapi.do)
@@ -25,3 +26,4 @@ KMF는 존재하는 개체와 데이터, 그들간의 관계를 지식 수준으
 > 동아대 웹사이트 - [동아대](https://www.donga.ac.kr/Default.aspx) [학사안내](http://intra.donga.ac.kr/) [LMS](https://eclass.donga.ac.kr/) [한림생활관](http://hanlim.donga.ac.kr/)
 >
 > 추가 수정 예정 (학생정보 서비스, 학사 일정, 도서관 열람실, 교내 지도, 동아리, 전화번호 등)
+
